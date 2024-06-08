@@ -45,3 +45,4 @@ Dentro del programa denominado "Prueba_Desarrollo.py" se encuentran las siguient
 -enviar emails: A partir de una consulta a la base de datos donde la clasificación sea alta ("classificaction=high") y si contiene el correo del manager, se enviará
 un correo a la espera del "Ok" respecto a la clasificación de alta criticidad para la base de datos.
 
+-main: Contiene el nombre de los archivos (JSON, csv, base de datos y el servidor, puerto, usuario, contraseña del smtp) y la invocación de las funciones anteriormente mencionadas. Todo esto con la finalidad de dar solución al ejercicio.
