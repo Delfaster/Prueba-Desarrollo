@@ -1,0 +1,12 @@
+[{
+         "database": "Database_1",
+         "classification": "high",
+         "owner": "doliente1@gmail.com"
+      },
+      {
+         "database": "Database_2",
+         "classification": "medium"
+      },
+      {
+         "database": "Database_3"
+      }]
