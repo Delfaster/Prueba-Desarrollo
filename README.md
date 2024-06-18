@@ -46,3 +46,6 @@ Dentro del programa denominado "Prueba_Desarrollo.py" se encuentran las siguient
 un correo a la espera del "Ok" respecto a la clasificación de alta criticidad para la base de datos.
 
 -main: Contiene el nombre de los archivos (JSON, csv, base de datos y el servidor, puerto, usuario, contraseña del smtp) y la invocación de las funciones anteriormente mencionadas. Todo esto con la finalidad de dar solución al ejercicio.
+
+# Aclaración
+Para enviar el mensaje, se debe declarar un "smtp_user" (el cuál contiene el correo del remitente) y "smtp_password" (el cuál contiene el código de contraseña de aplicación).
